@@ -1,18 +1,10 @@
-# Lead Developer & Architect
+# Software Developer
 
 <div>
-<br/>
- - As a Full Stack Developer with over 8 years of experience, it specializes in the development of scalable, high-performance web and mobile applications.<br/>
- - It is proficient in a wide range of front-end technologies, including React, React Native, Next.js, Vue.js, and Angular, complemented by expertise in back-end technologies such as Node.js, Python, and PHP.<br/>
- - Its experience extends to DevOps, CI/CD, and cloud infrastructure management, with a strong focus on AWS, Azure, and GCP.<br/>
- - It has successfully developed AI applications and integrated them with web platforms and ChatGPT, showcasing the ability to leverage cutting-edge technologies.<br/>
- - Its background includes extensive experience in designing and architecting solutions using advanced patterns such as Domain-Driven Design.<br/>
- - It has a broad portfolio, with proficiency in various industries including Fintech, E-commerce, Healthcare, Insurance, and SaaS Platform Development.<br/>
- - Its expertise in System Architecture, DevOps, CI/CD, and cloud infrastructure management, particularly with AWS, Azure, and GCP, further underscores its comprehensive skill set.<br/>
- - It has developed AI applications and integrated them with OpenAPI, demonstrating the capability to work with open standards and APIs.<br/>
+<p>With a strong development background and a keen entrepreneurial spirit, leverage technical expertise to create digital solutions that transform and simplify complex processes. My strategic vision, combined with my software development ability, allows me to analyze and carry out projects with precision and efficiency. My commitment to quality and meeting deadlines, combined with ability to understand depth of customer expectations, makes me ideal for a role requiring autonomy, innovation and reliability</p>
 </div>
 
-<h2>My stack :man_technologist:</h2>
+<h2>Techniques :main:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
