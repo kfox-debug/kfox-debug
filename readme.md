@@ -168,30 +168,30 @@
 
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{KasperSky}/count.svg" alt="KasperSky :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ash3550879}/count.svg" alt="Ash3550879 :: Visitor's Count" /></p>
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=KasperSky&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=Ash3550879&data=followers,repositories,stars,commits' />
 </p>
 
 <p align="center">
 
-<a href="https://github.com/KasperSky?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=KasperSky&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@KasperSky's github-readme-stats"/></a>
-<a href="https://github.com/KasperSky?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=KasperSky&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@KasperSky's github-readme-streak-stats"/></a>
+<a href="https://github.com/Ash3550879?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ash3550879&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ash3550879's github-readme-stats"/></a>
+<a href="https://github.com/Ash3550879?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ash3550879&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Ash3550879's github-readme-streak-stats"/></a>
 
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@KasperSky">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KasperSky&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="KasperSky's activity graph">
+    <a href="https://wakatime.com/@Ash3550879">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash3550879&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Ash3550879's activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperSky&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="KasperSky :: Top Langs" />
-<a href="https://github.com/KasperSky?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=KasperSky&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@KasperSky's trophy stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash3550879&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="Ash3550879 :: Top Langs" />
+<a href="https://github.com/Ash3550879?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Ash3550879&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@Ash3550879's trophy stats"/></a>
 </p>
 
 <!-- <h2>Contact :postbox:</h2>
