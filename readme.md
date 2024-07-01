@@ -1,7 +1,7 @@
 # Software Developer
 
 <div>
-<p>With a strong development background and a keen entrepreneurial spirit, leverage technical expertise to create digital solutions that transform and simplify complex processes. My strategic vision, combined with my software development ability, allows me to analyze and carry out projects with precision and efficiency. My commitment to quality and meeting deadlines, combined with ability to understand depth of customer expectations, makes me ideal for a role requiring autonomy, innovation and reliability</p>
+<p style="font-size: 17px">With a strong development background and a keen entrepreneurial spirit, leverage technical expertise to create digital solutions that transform and simplify complex processes. My strategic vision, combined with my software development ability, allows me to analyze and carry out projects with precision and efficiency. My commitment to quality and meeting deadlines, combined with ability to understand depth of customer expectations, makes me ideal for a role requiring autonomy, innovation and reliability</p>
 </div>
 
 <h2>Techniques: </h2>
@@ -211,6 +211,14 @@
       <br>Azure
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="heroku" />
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
       <br>Docker
     </td>
@@ -226,6 +234,8 @@
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
       <br>Terraform
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="cloudflare" />
       <br>Cloudflare
@@ -233,6 +243,34 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
       <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="jest" />
+      <br>Jest
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
+      <br>AI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
+      <br>Bash
     </td>
   </tr>
 </table>
@@ -248,15 +286,15 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash3550879&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="Ash3550879 :: Top Langs" />
+<a href="https://github.com/Ash3550879?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Ash3550879&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@Ash3550879's trophy stats"/></a>
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Ash3550879?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ash3550879&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ash3550879's github-readme-stats"/></a>
 <a href="https://github.com/Ash3550879?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ash3550879&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Ash3550879's github-readme-streak-stats"/></a>
 
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash3550879&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="Ash3550879 :: Top Langs" />
-<a href="https://github.com/Ash3550879?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Ash3550879&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@Ash3550879's trophy stats"/></a>
 </p>
 
 <!-- <h2>Contact :postbox:</h2>
