@@ -1,5 +1,5 @@
 # Software Developer
-
+ 
 <div>
 <p style="font-size: 17px">With a strong development background and a keen entrepreneurial spirit, leverage technical expertise to create digital solutions that transform and simplify complex processes. My strategic vision, combined with my software development ability, allows me to analyze and carry out projects with precision and efficiency. My commitment to quality and meeting deadlines, combined with ability to understand depth of customer expectations, makes me ideal for a role requiring autonomy, innovation and reliability</p>
 </div>
