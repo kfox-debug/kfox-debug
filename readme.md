@@ -160,6 +160,44 @@
     </td>
   </tr>
   <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="dynamodb" />
+      <br>DynamoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="bitbucket" />
+      <br>Bitbucket
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
