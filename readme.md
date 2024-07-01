@@ -122,6 +122,44 @@
     </td>
   </tr>
   <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="symfony" />
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" />
+      <br>RoR
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
